@@ -4,12 +4,9 @@ Intro
 
 ## Task estimation in Scrum
 
------
 Content
 
 ## Coding standards
-
------
 
 Good quality code requires consistent effort and a great focus from the developers’ team to meet the quality goal. Without conventions, it can be difficult for developers to understand the codebase and it can increase the development time as well as the complexity of the project structure.
 
@@ -39,13 +36,9 @@ Coding standards are essential to a development team, but they should not be wri
 
 ## Code reviews
 
------
-
 Content
 
 ## References
-
------
 
 1. [Coding Conventions][1]
 2. [The Significance  of Coding Standards][2]
