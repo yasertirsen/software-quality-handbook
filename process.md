@@ -20,3 +20,5 @@ Notes for next person:
 ## Code Reviews Notes
 
 - [this](https://codegym.cc/groups/posts/387-10-ways-to-improve-your-code-proven-through-personal-experience) includes a personal experience about code reviews
+
+## Task Estimation in Scrum Notes
