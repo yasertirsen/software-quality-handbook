@@ -15,7 +15,7 @@ If the sources are scarce, add bullet points of what you think should be added.
 
 Notes for next person:
 
-- I added this [source](https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/), it has good info about advantages of coding standards which you can use. It is number 5 in the references.
+- Added this [source](https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/), it has good info about advantages of coding standards which you can use. It is number 5 in the references.
 
 ## Code Reviews Notes
 
