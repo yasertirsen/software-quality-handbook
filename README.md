@@ -36,7 +36,17 @@ Coding standards are essential to a development team, but they should not be wri
 
 ## Code reviews
 
-Content
+Code review is the process in which a developer's code is reviewed by a peer or peers. Code review prevents errors, helps maintain consistency across a project and allows for individuals to share knowledge and experience. Overall it leads to higher quality code and less bugs. Code review is an essential part of an Agile teams process.[<sup>6</sup>][6]
+
+Failure to implement code review in the development process could result in:
+- **Bugs -** - The author may not detect that their code will cause an error, even with integration testing only 45% of errors are detected compared to 55-60% effectiveness for  design and code inspections.  Working under time constraints can lead to even the most experienced developers making mistakes that can lead to bugs. The cost of bugs increases exponentially at the different stages of a product so it is important to catch them in the development stage while they are easily corrected.[<sup>7</sup>][7]
+
+- **Code that is not understandable or maintainable -**  Code should be readable and coherent so that other developers can access it at any given time. New  developers or developers from other teams may need to access the code, it is important that when they do it is clean, understandable and documented. It should be straightforward for another person to pick up where one left off. Valuable time should not be wasted on trying to understand another's code, this is avoidable and can be checked very easily during a code review.  As Martin Fowler said “Any fool can write code that a computer can understand. Good programmers write code that humans can understand.”
+
+- **A missed opportunity for developers to improve -** A lack of review can result in developers not sharing knowledge and/or technologies that could be useful to each other. Learning can go both ways in code review. The reviewer is not necessarily superior so knowledge can be shared in both directions.  Continuous learning is key in Agile and there is always room to improve. [<sup>8</sup>][8]
+
+ It is important to make the distinction that code review is intended to improve code and help developers, not to give harsh feedback or to second guess a developer. The author may dispute comments if they feel it is appropriate and have sufficient reasoning and evidence, however this should be a conversation and not an argument. The entire review process should be a positive experience for both involved and should be helpful and constructive. [<sup>9</sup>][9]
+
 
 ## References
 
@@ -46,8 +56,19 @@ Content
 4. [Coding Standards; Why Is It Important?][3]
 5. [Importance of Code Quality and Coding Standards in Software Development][5]
 
+6.[Why Code Review Matters][6]
+7.[Code Reviews : Just Do It][7]
+8.[Developer life: 5 reasons why the code review process is critical for developers][8]
+9.[Developer code reviews: 4 mistakes to avoid][9]
+
+
 [1]: https://en.wikipedia.org/wiki/Coding_conventions
 [2]: https://webguruz.in/the-significance-of-coding-standards-2/
 [3]: https://codegym.cc/groups/posts/387-10-ways-to-improve-your-code-proven-through-personal-experience
 [4]: https://www.ommzi.com/coding-standards-why-is-it-important/
 [5]: https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/
+
+[6]: https://www.atlassian.com/agile/software-development/code-reviews
+[7]:https://blog.codinghorror.com/code-reviews-just-do-it/
+[8]:https://www.brightspot.com/products/developer-life-5-reasons-why-the-code-review-process-is-critical-for-developers
+[9]:https://www.techrepublic.com/article/developer-code-reviews-4-mistakes-to-avoid/
