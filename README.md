@@ -28,9 +28,21 @@ It is important to note that coding standards are usually created based on certa
 
 - Update the code according to latest updates and conventions at regular time intervals.[<sup>4</sup>][4]
 
-While it initially may take extra time to code according to the coding standards set by the development team, it will help the team maintain the code in the future. About 40-80% of the cost of a software goes to its maintenance.[<sup>3</sup>][3] Meaning that developers usually spend more time maintaining the software than build it.
+
+Implementing a set of coding standards is quite beneficial to the development team, below are some of the most notable advantages: 
+
+- **Increased Efficiency:** As mentioned above, the majority of development time goes to maintenance. However, some maintenance issues could have been prevented. Implementing coding standards would help the team to detect the problems early or even prevent them completely. This will increase efficiency throughout the software process. 
+
+- **Bug Rectification:** It becomes really easy to locate and correct bugs in the software if the source code is written in a consistent manner. It also helps in reducing bugs in general which might require a hotfix which would not be ideal during development. 
+
+- **Cost-Efficient:** A clear code gives the developers an opportunity to reuse the code whenever required. This can radically reduce the cost along with the efforts put in the development. 
+
+- **Minimal Complexity:** If a code is complex, there are higher chances of it being vulnerable to errors. Coding standards help in the development of software programs that are less complex and thereby reduce the errors. 
+
+While it initially may take extra time to code according to the coding standards set by the development team, it will help the team maintain the code in the future. About 40-80% of the cost of a software goes to its maintenance [<sup>3</sup>][3]. Meaning that developers usually spend more time maintaining the software than build it.
 
 Coding standards are essential to a development team, but they should not be written on stone. They should be flexible so that any unessential guideline can be marked as optional, and vice versa. Coding standards also save the team time and effort in the future, therefore, doing this activity is worthwhile. Below is a personal experience of developer who was involved in setting coding standards for their team.
+
 
 “it makes sense to spend time discussing and arguing about them, since it is a valuable activity that will save you time and effort in the future. Code conventions should be reviewed frequently. Rules can be changed from "required" to "optional" and vice versa. If some of them do not work as expected, they should be revised or removed from the guidelines.” - [Roman Beskrovnyi][3]
 
