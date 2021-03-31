@@ -91,7 +91,7 @@ Content
 [5]: https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/
 
 
-1: https://www.knowledgehut.com/blog/agile/top-5-scrum-estimation-techniques-find-your-best-fit
-2: https://www.scrum.org/resources/blog/why-do-we-use-story-points-estimating#:~:text=Story%20Points%20are%20intended%20to,to%20other%20product%20backlog%20items.
-3: http://www.agilebuddha.com/agile/agile-estimation-9-reasons-why-you-should-use-story-points/
-4: https://www.linkedin.com/pulse/advantages-disadvantages-using-story-points-anshika-misra/
+[1]: https://www.knowledgehut.com/blog/agile/top-5-scrum-estimation-techniques-find-your-best-fit
+[2]: https://www.scrum.org/resources/blog/why-do-we-use-story-points-estimating#:~:text=Story%20Points%20are%20intended%20to,to%20other%20product%20backlog%20items.
+[3]: http://www.agilebuddha.com/agile/agile-estimation-9-reasons-why-you-should-use-story-points/
+[4]: https://www.linkedin.com/pulse/advantages-disadvantages-using-story-points-anshika-misra/
