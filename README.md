@@ -4,7 +4,45 @@ Intro
 
 ## Task estimation in Scrum
 
-Content
+Task Estimation in Scrum projects is done by the entire team. It is setup during the Spring Planning meeting. The goal of Estimation is to consider the User Stories for the Sprint by Priority and by the Ability of the team to deliver during the Time Box of the Sprint. Estimations are done to get people liable for their work, predict when they will complete it and to understand the magnitude of the project itself.
+
+“Estimating isn’t about estimating at all. Estimating is about creating a shared understanding of the requirements, and a shared understanding of the solution. When teams have problems estimating, it’s almost never an estimating problem, it’s a shared understanding problem” (MIKE COTTMEYER, 1)
+
+There are plenty of ways to estimate your work. The key thing is to find the right way of doing it and the most suitable for the team. Types of Estimation includes Story Points with its most popular being Planning Poker. Story Points are intended to make team estimating easier. Instead of looking at a product backlog item and estimating it in hours, teams consider only how much effort a product backlog item will require, relative to other product backlog items (2).
+
+**Benefits of Story Points over using Hours as a measure of Estimation (3):** 
+1.	**Points make it compulsory to use team’s performance data (velocity) for release planning.** - Planning can only be performed by knowing or predicting the team’s  velocity.  Thus, using points forces all planning to happen through the lens of the team’s velocity.
+2.	**Prevents the need for frequent re-estimation.** - Planning can only be performed by knowing or predicting the team’s velocity.  Thus, using points forces all planning to happen through the lens of the team’s velocity. Helps to prevent the need for non-frequent re-estimation.
+3.	**Story Points allays fear of commitment.** -When people are under less stress they think more rationally and hence better estimates.
+4.	**Focuses client conversation on the right questions if client is Agile or at-least understands Agile.** - Communicating with the client tends to be easier and more honest when using “points” rather than “days”.  This is because points allow us to separate the two concepts of how much work is to be done vs. how long it takes to do that work.
+5.	**Story Points invites collaboration as team behaviour becomes prominent over individuals.** - Using planning poker to estimate story points brings team together. Brings the team to share, constructively criticizes, debate and have fun with playing cards.
+6.	**Story Points help drive cross functional behaviour.** - Makes members of the team from different roles cooperate and learn to work cross-functionally.
+7.	**Story-points estimation is typically faster.** - Teams who estimate in days tend to take discussion few levels deep causing the fear of commitment to play a role because you are estimating in days.
+
+**Disadvantages of Story Points (4):**
+
+•   **Not understanding Agile methodology.**
+	    Developers are used to calculating and giving hourly estimates, so when the agile methodology is introduced in a team, in the initial phase the team may not feel comfortable with story point estimation.
+
+•	**Inflated Story Points.**
+    Under pressure to improve performance, and to prove that more is getting accomplished, teams may inflate story points. This just creates an illusion of higher velocity, though the same/ less amount of work is being done.
+
+•	**Quality can be Sacrificed.**
+    If the sole focus of the team (probably due to external pressures) is to maintain constant/ increasing velocity, then Quality is sacrificed. Efficient and optimized design, code optimization, code re-factoring are the first things to be dropped when the team is trying to complete all the work within a time-box.
+
+The important things to remember about Task Estimation and planning in Scrum are as follows:
+
+-	Knowledge and progress are gained allowing reduce uncertainty around the delivery of the project.
+
+-	Team will work better if there are all thinking the same. Estimating should be carried as a whole team and not in teams of their roles.
+
+-	With the team coming together, Estimation can help members understand the magnitude of the project whether it is harder than they thought or easier compared to the 
+    other team members.
+
+-	Low Story Point sections help keep momentum helping to remove a slow start and rushed end, resulting in a consistent flow of work.
+
+Task Estimation in Scrum can be beneficial if done right. Picking the right technique can help of team develop a project in the right time frame with the right amount of time spent on certain aspects.
+
 
 ## Coding standards
 
@@ -51,3 +89,9 @@ Content
 [3]: https://codegym.cc/groups/posts/387-10-ways-to-improve-your-code-proven-through-personal-experience
 [4]: https://www.ommzi.com/coding-standards-why-is-it-important/
 [5]: https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/
+
+
+1: https://www.knowledgehut.com/blog/agile/top-5-scrum-estimation-techniques-find-your-best-fit
+2: https://www.scrum.org/resources/blog/why-do-we-use-story-points-estimating#:~:text=Story%20Points%20are%20intended%20to,to%20other%20product%20backlog%20items.
+3: http://www.agilebuddha.com/agile/agile-estimation-9-reasons-why-you-should-use-story-points/
+4: https://www.linkedin.com/pulse/advantages-disadvantages-using-story-points-anshika-misra/
