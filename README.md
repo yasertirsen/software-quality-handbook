@@ -6,11 +6,11 @@ Intro
 
 Task Estimation in Scrum projects is done by the entire team. It is setup during the Spring Planning meeting. The goal of Estimation is to consider the User Stories for the Sprint by Priority and by the Ability of the team to deliver during the Time Box of the Sprint. Estimations are done to get people liable for their work, predict when they will complete it and to understand the magnitude of the project itself.
 
-“Estimating isn’t about estimating at all. Estimating is about creating a shared understanding of the requirements, and a shared understanding of the solution. When teams have problems estimating, it’s almost never an estimating problem, it’s a shared understanding problem” (MIKE COTTMEYER, 1)
+“Estimating isn’t about estimating at all. Estimating is about creating a shared understanding of the requirements, and a shared understanding of the solution. When teams have problems estimating, it’s almost never an estimating problem, it’s a shared understanding problem” (MIKE COTTMEYER, 10)
 
-There are plenty of ways to estimate your work. The key thing is to find the right way of doing it and the most suitable for the team. Types of Estimation includes Story Points with its most popular being Planning Poker. Story Points are intended to make team estimating easier. Instead of looking at a product backlog item and estimating it in hours, teams consider only how much effort a product backlog item will require, relative to other product backlog items (2).
+There are plenty of ways to estimate your work. The key thing is to find the right way of doing it and the most suitable for the team. Types of Estimation includes Story Points with its most popular being Planning Poker. Story Points are intended to make team estimating easier. Instead of looking at a product backlog item and estimating it in hours, teams consider only how much effort a product backlog item will require, relative to other product backlog items (11).
 
-**Benefits of Story Points over using Hours as a measure of Estimation (3):** 
+**Benefits of Story Points over using Hours as a measure of Estimation (12):** 
 1.	**Points make it compulsory to use team’s performance data (velocity) for release planning.** - Planning can only be performed by knowing or predicting the team’s  velocity.  Thus, using points forces all planning to happen through the lens of the team’s velocity.
 2.	**Prevents the need for frequent re-estimation.** - Planning can only be performed by knowing or predicting the team’s velocity.  Thus, using points forces all planning to happen through the lens of the team’s velocity. Helps to prevent the need for non-frequent re-estimation.
 3.	**Story Points allays fear of commitment.** -When people are under less stress they think more rationally and hence better estimates.
@@ -19,7 +19,7 @@ There are plenty of ways to estimate your work. The key thing is to find the rig
 6.	**Story Points help drive cross functional behaviour.** - Makes members of the team from different roles cooperate and learn to work cross-functionally.
 7.	**Story-points estimation is typically faster.** - Teams who estimate in days tend to take discussion few levels deep causing the fear of commitment to play a role because you are estimating in days.
 
-**Disadvantages of Story Points (4):**
+**Disadvantages of Story Points (13):**
 
 •   **Not understanding Agile methodology.**
 	    Developers are used to calculating and giving hourly estimates, so when the agile methodology is introduced in a team, in the initial phase the team may not feel comfortable with story point estimation.
@@ -91,7 +91,7 @@ Content
 [5]: https://www.multidots.com/importance-of-code-quality-and-coding-standard-in-software-development/
 
 
-[1]: https://www.knowledgehut.com/blog/agile/top-5-scrum-estimation-techniques-find-your-best-fit
-[2]: https://www.scrum.org/resources/blog/why-do-we-use-story-points-estimating#:~:text=Story%20Points%20are%20intended%20to,to%20other%20product%20backlog%20items.
-[3]: http://www.agilebuddha.com/agile/agile-estimation-9-reasons-why-you-should-use-story-points/
-[4]: https://www.linkedin.com/pulse/advantages-disadvantages-using-story-points-anshika-misra/
+[10]: https://www.knowledgehut.com/blog/agile/top-5-scrum-estimation-techniques-find-your-best-fit
+[11]: https://www.scrum.org/resources/blog/why-do-we-use-story-points-estimating#:~:text=Story%20Points%20are%20intended%20to,to%20other%20product%20backlog%20items.
+[12]: http://www.agilebuddha.com/agile/agile-estimation-9-reasons-why-you-should-use-story-points/
+[13]: https://www.linkedin.com/pulse/advantages-disadvantages-using-story-points-anshika-misra/
