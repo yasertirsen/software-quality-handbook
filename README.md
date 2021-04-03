@@ -1,6 +1,6 @@
 # Software Quality Handbook
 
-Intro
+Software Quality is one of the most important things in a software development company. It helps us to combine our knowledge to achieve the best quality of code. This will help developers encounter less issues by continuously seeking feedback from other developers with code reviews, referring back to the coding standards set out by the team or correctly estimate stories based on the collective knowledge of the team. These topics are identified and explained below. 
 
 ## Task estimation in Scrum
 
@@ -44,6 +44,8 @@ Task Estimation in Scrum can be beneficial if done right. Picking the right tech
 
 ## Coding standards
 
+![confused](images/confusedfry.png)
+
 Good quality code requires consistent effort and a great focus from the developers’ team to meet the quality goal. Without conventions, it can be difficult for developers to understand the codebase and it can increase the development time as well as the complexity of the project structure.
 
 Coding standards are a set of guidelines created by the development team. They are followed during development to achieve a uniform prgramming style, practices, and methods for each aspect of a prgram written in a specific programming language. This helps avoid unmaintainable codebase as it gets larger.[<sup>1</sup>][1]
@@ -80,6 +82,7 @@ Coding standards are essential to a development team, but they should not be wri
 “it makes sense to spend time discussing and arguing about them, since it is a valuable activity that will save you time and effort in the future. Code conventions should be reviewed frequently. Rules can be changed from "required" to "optional" and vice versa. If some of them do not work as expected, they should be revised or removed from the guidelines.” - [Roman Beskrovnyi][3]
 
 ## Code reviews
+![confused](images/codingreviews.png)
 
 Code review is the process in which a developer's code is reviewed by a peer or peers. Code review prevents errors, helps maintain consistency across a project and allows for individuals to share knowledge and experience. Overall it leads to higher quality code and less bugs. Code review is an essential part of an Agile teams process.[<sup>6</sup>][6]
 
@@ -108,6 +111,10 @@ It is worth noting that while code review is very useful, it can be done ineffic
 7. [Code Reviews : Just Do It][7]
 8. [Developer life: 5 reasons why the code review process is critical for developers][8]
 9. [Developer code reviews: 4 mistakes to avoid][9]
+10. [Top 5 scrum estimation techniques find your best fit][10]
+11. [Why do we use story points estimating][11]
+12. [Agile estimation 9 reasons why you should use story points][12]
+13. [Advantages disadvantages using story points anshika misra][13]
 
 [1]: https://en.wikipedia.org/wiki/Coding_conventions
 [2]: https://webguruz.in/the-significance-of-coding-standards-2/
@@ -122,4 +129,3 @@ It is worth noting that while code review is very useful, it can be done ineffic
 [11]: https://www.scrum.org/resources/blog/why-do-we-use-story-points-estimating#:~:text=Story%20Points%20are%20intended%20to,to%20other%20product%20backlog%20items
 [12]: http://www.agilebuddha.com/agile/agile-estimation-9-reasons-why-you-should-use-story-points/
 [13]: https://www.linkedin.com/pulse/advantages-disadvantages-using-story-points-anshika-misra/
-
