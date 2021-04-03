@@ -73,7 +73,6 @@ Implementing a set of coding standards is quite beneficial to the development te
 - **Cost-Efficient:** A clear code gives the developers an opportunity to reuse the code whenever required. This can radically reduce the cost along with the efforts put in the development.
 
 - **Minimal Complexity:** If a code is complex, there are higher chances of it being vulnerable to errors. Coding standards help in the development of software programs that are less complex and thereby reduce the errors.
-
 While it initially may take extra time to code according to the coding standards set by the development team, it will help the team maintain the code in the future. About 40-80% of the cost of a software goes to its maintenance [<sup>3</sup>][3]. Meaning that developers usually spend more time maintaining the software than build it.
 
 Coding standards are essential to a development team, but they should not be written on stone. They should be flexible so that any unessential guideline can be marked as optional, and vice versa. Coding standards also save the team time and effort in the future, therefore, doing this activity is worthwhile. Below is a personal experience of developer who was involved in setting coding standards for their team.
@@ -123,3 +122,4 @@ It is worth noting that while code review is very useful, it can be done ineffic
 [11]: https://www.scrum.org/resources/blog/why-do-we-use-story-points-estimating#:~:text=Story%20Points%20are%20intended%20to,to%20other%20product%20backlog%20items
 [12]: http://www.agilebuddha.com/agile/agile-estimation-9-reasons-why-you-should-use-story-points/
 [13]: https://www.linkedin.com/pulse/advantages-disadvantages-using-story-points-anshika-misra/
+
